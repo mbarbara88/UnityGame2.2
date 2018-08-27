@@ -23,6 +23,8 @@ Ufo game collecting objects (youtube)
 
 Az etalon
 http://www.noob-programmer.com/unity3d/random-spawn/
+https://answers.unity.com/questions/1007842/make-random-objects-fall-continuously-with-random.html
+InvokeRepeating(), Instantiate() and Random.Range().
 
 
 
