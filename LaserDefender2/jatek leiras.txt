@@ -1,12 +1,29 @@
 Leesõ objektumok: 
-egy tömbbe --> kiválasztás random, 2 mp-enként hullik valami, csúsztatva. Az elején 3 dolog kezd el hullani, egy jég és két jó cucc.
+egy tombbe --> kivalasztas random, 2 mp-enkent hullik valami, csúsztatva. Az elejen 3 dolog kezd el hullani, egy jeg es ket jo cucc.
+Talan bele kell tenni egy ciklusba.. Ha az also hatart elerte a leeso objektum akkor az onRenderenabled false-ra allitasa es ha sorra kerul akkor megint fentrol esik lefele es akkor true-ra allitjuk..
 jég: mindig egyforma..
-Kérdés: külön tömb kell? 
+Kérdés: kulon tomb kell? 
 
-Játék: hasstarted --> egybõl az elején, vagy ha hozzáért a képernyõhöz?
-Alul egy alsó határ, ha ezt elérte az objektum akkor visszakerül az eredeti tömbbe
+Játék: hasstarted --> egybol az elejen, vagy ha hozzaert a kepernyohoz?
+Alul egy also hatar, ha ezt elerte az objektum akkor visszakerul az eredeti tombbe
 OnCollosion --> destroy
 Ha nem destroyed akkor meg újra hullik.
-Progressbar: ha collosion és jó cucc akkor ++ ha jég akkor nem növeljük.
-Ha mindent összegyûjtött akkor Gameover, Win screen.
+Progressbar: ha collosion és jo cucc akkor ++ ha jeg akkor nem noveljuk.
+Ha mindent osszegyujtott akkor Gameover, Win screen.
+Lehullo penzermek:
+https://answers.unity.com/questions/829566/how-to-make-objects-falling-down-from-the-top-of-t.html
+OntriggerEvent:
+https://answers.unity.com/questions/509971/pick-up-an-item-with-colliders-using-c.html
+Random helyre leteszi az objektumokat:
+https://www.youtube.com/watch?v=iLTP4EbM1N4
+
+falling objects:
+https://www.youtube.com/watch?v=Fpf7qD2wfrI
+Ufo game collecting objects (youtube)
+
+Az etalon
+http://www.noob-programmer.com/unity3d/random-spawn/
+
+
+
 
