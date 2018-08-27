@@ -1,0 +1,12 @@
+Leesõ objektumok: 
+egy tömbbe --> kiválasztás random, 2 mp-enként hullik valami, csúsztatva. Az elején 3 dolog kezd el hullani, egy jég és két jó cucc.
+jég: mindig egyforma..
+Kérdés: külön tömb kell? 
+
+Játék: hasstarted --> egybõl az elején, vagy ha hozzáért a képernyõhöz?
+Alul egy alsó határ, ha ezt elérte az objektum akkor visszakerül az eredeti tömbbe
+OnCollosion --> destroy
+Ha nem destroyed akkor meg újra hullik.
+Progressbar: ha collosion és jó cucc akkor ++ ha jég akkor nem növeljük.
+Ha mindent összegyûjtött akkor Gameover, Win screen.
+
