@@ -27,5 +27,12 @@ https://answers.unity.com/questions/1007842/make-random-objects-fall-continuousl
 InvokeRepeating(), Instantiate() and Random.Range().
 
 
+Tutorialok:
+
+https://stackoverflow.com/questions/27308031/can-i-loop-a-lot-of-falling-objects-in-unity
+
+https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-catch-game-pt-1?playlist=17093
+
+https://www.youtube.com/watch?v=aSqfMCdP9aU
 
 
