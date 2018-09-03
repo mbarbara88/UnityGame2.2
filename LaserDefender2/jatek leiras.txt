@@ -35,4 +35,32 @@ https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-catch-game-pt-1?p
 
 https://www.youtube.com/watch?v=aSqfMCdP9aU
 
+GUI Button with image
+https://www.youtube.com/watch?v=-Q8OxnCcRkY
+
+https://answers.unity.com/questions/1127944/changing-the-image-of-a-button-with-a-script.html
+
+Clickable image:
+https://www.youtube.com/watch?v=HU-986STeLQ
+
+http://ejkinger.io/2017/02/how-to-make-ui-image-menu-buttons-resize-nicely-in-unity/
+
+UI image as button 
+https://www.youtube.com/watch?v=WFQcc1GUe7U
+
+https://answers.unity.com/questions/958318/change-ui-button-image.html
+
+Button image csere:
+
+https://www.youtube.com/watch?v=mWd3RMcB0ss
+
+Unity blog:
+https://www.raywenderlich.com/unity
+
+https://www.raywenderlich.com/795-introduction-to-unity-ui-part-1
+
+
+
+
+
 
